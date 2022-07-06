@@ -1,0 +1,1 @@
+Visão computacional é uma tecnologia utilizada para fazer o computador reconhecer padrões de formas/imagens e identificá-las e, se necessário, tomar ações perante tais classificações.

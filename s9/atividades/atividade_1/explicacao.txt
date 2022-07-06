@@ -1,0 +1,2 @@
+Os filtros de realce nãp-direcional sao utilizados para realçar bordas sem depender da direção. As 3 mascaras
+apresentadas se diferem apenas à itensidade de altos valores de níveis de cinza presentes na imagem resultante.

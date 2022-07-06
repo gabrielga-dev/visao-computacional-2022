@@ -1,0 +1,19 @@
+Enumerar 10 aplicações de visão computacional
+	1 - Reconhecimento facial nas câmeras de celulares android
+	2 - Reconhecimento de digital em smartphones
+	3 - Reconhecimento de pedestres em carros autônomos
+	4 - Reconhecimento de placas de carros em radares
+	5 - Digitalização de objetos (tornar os objetos da vida real em objetos 3D em um computador)
+	6 - Kinect e seus jogos
+	7 - Detecção de sono em veículos automotores
+	8 - Mapeamento do local através de câmeras e sinais infravermelhos
+	9 - Identificador de objetos desenhos
+	10 - Detectores de luminosidades
+
+Enumerar 5 links de vídeos sobre aplicações de visão computacional
+	1 - Quick, draw! (https://quickdraw.withgoogle.com/?locale=pt_BR)
+	2 - Detecção de veículos e pedestres em carros (https://www.youtube.com/watch?v=OopTOjnD3qY&ab_channel=Waymo)
+	3 - Leitores biométricos nos celulares (https://www.youtube.com/watch?v=DAWgqsTK9QI&ab_channel=EuTestei)
+	4 - Detector de Máscara com Deep Learning (https://www.youtube.com/watch?v=PT45jhlQD7M&ab_channel=CANALSANDECO)
+	5 - Kinect (https://www.youtube.com/watch?v=oyjNqksc-m8&ab_channel=RelianceDigital)
+

@@ -1,0 +1,11 @@
+import cv2
+img = cv2.imread('imagem.jpg')
+azul,	verde,	vermelho	=	cv2.split(img)
+cv2.imshow("Colorida", img)
+cv2.waitKey(0)
+cv2.imshow("azul", azul)
+cv2.waitKey(0)
+cv2.imshow("verde", verde)
+cv2.waitKey(0)
+cv2.imshow("vermelho", vermelho)
+cv2.waitKey(0)
